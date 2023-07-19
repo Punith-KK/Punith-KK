@@ -1,6 +1,4 @@
 
-[![Banner](https://i.pinimg.com/originals/68/ab/3f/68ab3f1b4c93a51801bb8d16bdc92837.gif)](https://your-website-or-portfolio-link)
-
 
 <h1 align="center">Hi 👋, I'm Punith.K.K</h1>
 <h3 align="center">Enthusiastic CSE Student At NHCE | Solving LeetCode Challenges & Building Web Projects</h3>
