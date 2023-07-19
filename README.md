@@ -44,3 +44,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punith-kk&show_icons=true&locale=en" alt="punith-kk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punith-kk&" alt="punith-kk" /></p>
+
+## My Projects
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
+   <a href="http://www.youtube.com/watch?v=eBO4vLKX4J8" target="_blank" style="padding: 20px;">
+  <img src="https://user-images.githubusercontent.com/118302022/254688693-78fc9f68-2d62-4e53-9b8f-46f49a9d788d.gif" alt="Space-Quest" width="240px" />
+</a>
+  <a href="http://www.youtube.com/watch?v=97qR8NclGSg" target="_blank" style="padding: 20px;">
+  <img src="https://user-images.githubusercontent.com/118302022/254691045-9c11a78b-e71c-4a94-a495-64aae9425209.gif" alt="Space-Quest" width="240px" />
+</a>
+  <a href="http://www.youtube.com/watch?v=eBO4vLKX4J8" target="_blank" style="padding: 20px;">
+  <img src="https://user-images.githubusercontent.com/118302022/254688693-78fc9f68-2d62-4e53-9b8f-46f49a9d788d.gif" alt="Space-Quest" width="240px" />
+</a>
+</div>
+
+  
+
+
+
+
