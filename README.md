@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/punith_luffy" target="blank"><img src="https://img.shields.io/twitter/follow/punith_luffy?logo=twitter&style=for-the-badge" alt="punith_luffy" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Three.js , WebGL , CP and GSAP**
+- 🌱 I’m currently learning **Data Science, Machine Learning , WebGL , DSA & Statistics**
 
 - 👯 I’m looking to collaborate on [Eth_Projects](https://github.com/ethereum/go-ethereum)
 
